@@ -221,3 +221,6 @@ data/raw/
 data/processed/
 .DS_Store
 .idea/CLAUDE.md
+.idea/
+notebooks/.tmp/
+CLAUDE.md
